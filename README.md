@@ -1,4 +1,4 @@
-# Taox
+# Celab1
 เว็บตั้งต้นของวิชาปฏิบัติการวิศวกรรมคอมพิวเตอร์ 1
 
 ทุกคนสร้างเว็บของตัวเองจาก repository นี้ด้วยปุ่ม Use this template ตั้งชื่อ repository ว่า celab1 แล้วเปิด GitHub Pages ที่ Settings > Pages เว็บจะอยู่ที่ https://<ชื่อผู้ใช้>.github.io/celab1/
